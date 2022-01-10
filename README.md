@@ -1,5 +1,5 @@
 # Vizard
-This repository contains the artifact for the CCS 2022 submission ["Vizard: A Metadata-hiding Data Analytics System with End-to-End Policy Controls"](Vizard.pdf).
+This repository contains the artifact for the CCS 2022 submission "Vizard: A Metadata-hiding Data Analytics System with End-to-End Policy Controls".
 
 Vizard is a metadata-hiding analytic system that enables privacy-hardening and enforceable data control for owners. The prototype is interfaced with Apache Kafka, built with a tailored suite of lightweight cryptographic tools and designs that help us to efficiently handle analytic queries over continuous data streams.
 
